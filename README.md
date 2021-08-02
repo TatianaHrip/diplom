@@ -10,7 +10,7 @@
 - [План тестирования](https://github.com/TatianaHrip/diplom/blob/master/Documents/Plan.md)
 - [Отчёт по итогам тестирования](https://github.com/TatianaHrip/diplom/blob/master/Documents/%D0%9E%D1%82%D1%87%D1%91%D1%82%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D1%91%D0%BD%D0%BD%D0%BE%D0%BC%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8.md) 
 - [Отчет по итогам автоматизации](https://github.com/TatianaHrip/diplom/blob/master/Documents/%D0%9E%D1%82%D1%87%D1%91%D1%82%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D1%91%D0%BD%D0%BD%D0%BE%D0%B9%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8.md)
-- [Список найденных багов](https://github.com/TatianaHrip/diplom/issues)
+- [Список найденных ошибок](https://github.com/TatianaHrip/diplom/issues)
 
 ## Запуск приложения
 
